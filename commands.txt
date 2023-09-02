@@ -2,3 +2,5 @@ git init
 git status
 git commit -m "message"
 git clone
+git stash
+git add.
